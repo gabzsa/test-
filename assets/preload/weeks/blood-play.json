@@ -1,0 +1,32 @@
+{
+	"storyName": "Brutal Violence",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "playground",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Blood Play",
+			"human",
+			[
+				158,
+				164,
+				171
+			]
+		]
+	],
+	"weekCharacters": [
+		"human",
+		"bf-human",
+		"gf-human"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Blood Play"
+}
