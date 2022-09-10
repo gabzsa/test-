@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "HumanIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "HumanLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "HumanDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "HumanUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "HumanRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "HumanIdle"
+		},
+		{
+			"offsets": [
+				23,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "HumanShoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/human-enemy",
+	"position": [
+		40,
+		200
+	],
+	"healthicon": "human-enemy",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		164,
+		171
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

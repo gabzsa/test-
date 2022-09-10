@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GorseLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GorseDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GorseRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GorseIdle"
+		},
+		{
+			"offsets": [
+				0,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GorseUp"
+		},
+		{
+			"offsets": [
+				-10,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "spit",
+			"indices": [],
+			"name": "GorseSpit"
+		},
+		{
+			"offsets": [
+				188,
+				233
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enter",
+			"indices": [],
+			"name": "GorseEnter"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gorse",
+	"position": [
+		220,
+		430
+	],
+	"healthicon": "gorse",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		59,
+		25
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

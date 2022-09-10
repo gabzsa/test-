@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BFGameOverBullet",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-204,
+				-120
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BFDeadLoopBullet",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-204,
+				-120
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BFDeadConfirmBullet",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-human-dead-bullet",
+	"position": [
+		-160,
+		140
+	],
+	"healthicon": "bf-human",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
