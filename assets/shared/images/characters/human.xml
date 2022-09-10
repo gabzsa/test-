@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="human.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HumanDown0000" x="0" y="0" width="364" height="496" frameX="-4" frameY="-4" frameWidth="372" frameHeight="500"/>
+	<SubTexture name="HumanDown0001" x="0" y="0" width="364" height="496" frameX="-4" frameY="-4" frameWidth="372" frameHeight="500"/>
+	<SubTexture name="HumanDown0002" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0003" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0004" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0005" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0006" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0007" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0008" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0009" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0010" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0011" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0012" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanDown0013" x="379" y="0" width="372" height="500"/>
+	<SubTexture name="HumanIdle0000" x="766" y="0" width="358" height="541" frameX="-2" frameY="-6" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0001" x="766" y="0" width="358" height="541" frameX="-2" frameY="-6" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0002" x="1139" y="0" width="349" height="544" frameX="-6" frameY="-3" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0003" x="1139" y="0" width="349" height="544" frameX="-6" frameY="-3" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0004" x="1503" y="0" width="351" height="545" frameX="-4" frameY="-2" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0005" x="1503" y="0" width="351" height="545" frameX="-4" frameY="-2" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0006" x="0" y="560" width="355" height="546" frameX="-2" frameY="-1" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0007" x="0" y="560" width="355" height="546" frameX="-2" frameY="-1" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0008" x="370" y="560" width="358" height="547" frameX="0" frameY="0" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0009" x="370" y="560" width="358" height="547" frameX="0" frameY="0" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0010" x="370" y="560" width="358" height="547" frameX="0" frameY="0" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0011" x="370" y="560" width="358" height="547" frameX="0" frameY="0" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0012" x="370" y="560" width="358" height="547" frameX="0" frameY="0" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanIdle0013" x="370" y="560" width="358" height="547" frameX="0" frameY="0" frameWidth="360" frameHeight="547"/>
+	<SubTexture name="HumanLeft0000" x="743" y="560" width="300" height="530" frameX="-13" frameY="-1" frameWidth="313" frameHeight="531"/>
+	<SubTexture name="HumanLeft0001" x="743" y="560" width="300" height="530" frameX="-13" frameY="-1" frameWidth="313" frameHeight="531"/>
+	<SubTexture name="HumanLeft0002" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0003" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0004" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0005" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0006" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0007" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0008" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0009" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0010" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0011" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0012" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanLeft0013" x="1058" y="560" width="313" height="531"/>
+	<SubTexture name="HumanRight0000" x="1386" y="560" width="310" height="533"/>
+	<SubTexture name="HumanRight0001" x="1386" y="560" width="310" height="533"/>
+	<SubTexture name="HumanRight0002" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0003" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0004" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0005" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0006" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0007" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0008" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0009" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0010" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0011" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0012" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanRight0013" x="1711" y="560" width="307" height="532" frameX="0" frameY="-1" frameWidth="310" frameHeight="533"/>
+	<SubTexture name="HumanUp0000" x="0" y="1122" width="397" height="558"/>
+	<SubTexture name="HumanUp0001" x="0" y="1122" width="397" height="558"/>
+	<SubTexture name="HumanUp0002" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0003" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0004" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0005" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0006" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0007" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0008" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0009" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0010" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0011" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0012" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+	<SubTexture name="HumanUp0013" x="412" y="1122" width="396" height="553" frameX="-1" frameY="-5" frameWidth="397" frameHeight="558"/>
+</TextureAtlas>

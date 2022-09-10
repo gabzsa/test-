@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gorse.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GorseDown0000" x="0" y="0" width="261" height="291" frameX="0" frameY="-6" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0001" x="0" y="0" width="261" height="291" frameX="0" frameY="-6" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0002" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0003" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0004" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0005" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0006" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0007" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0008" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0009" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0010" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0011" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0012" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseDown0013" x="276" y="0" width="256" height="297" frameX="-2" frameY="0" frameWidth="261" frameHeight="297"/>
+	<SubTexture name="GorseEnter0000" x="547" y="0" width="369" height="300" frameX="0" frameY="0" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0001" x="547" y="0" width="369" height="300" frameX="0" frameY="0" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0002" x="931" y="0" width="300" height="290" frameX="-185" frameY="-275" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0003" x="931" y="0" width="300" height="290" frameX="-185" frameY="-275" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0004" x="1246" y="0" width="282" height="317" frameX="-194" frameY="-248" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0005" x="1246" y="0" width="282" height="317" frameX="-194" frameY="-248" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0006" x="1543" y="0" width="284" height="314" frameX="-193" frameY="-251" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0007" x="1543" y="0" width="284" height="314" frameX="-193" frameY="-251" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0008" x="1543" y="0" width="284" height="314" frameX="-193" frameY="-251" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0009" x="0" y="332" width="288" height="324" frameX="-189" frameY="-241" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0010" x="0" y="332" width="288" height="324" frameX="-189" frameY="-241" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0011" x="303" y="332" width="280" height="332" frameX="-193" frameY="-233" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseEnter0012" x="303" y="332" width="280" height="332" frameX="-193" frameY="-233" frameWidth="485" frameHeight="565"/>
+	<SubTexture name="GorseIdle0000" x="598" y="332" width="288" height="324" frameX="0" frameY="-8" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0001" x="598" y="332" width="288" height="324" frameX="0" frameY="-8" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0002" x="901" y="332" width="280" height="321" frameX="-4" frameY="-11" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0003" x="901" y="332" width="280" height="321" frameX="-4" frameY="-11" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0004" x="1196" y="332" width="274" height="329" frameX="-7" frameY="-4" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0005" x="1196" y="332" width="274" height="329" frameX="-7" frameY="-4" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0006" x="1485" y="332" width="271" height="332" frameX="-9" frameY="-1" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0007" x="1485" y="332" width="271" height="332" frameX="-9" frameY="-1" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0008" x="1771" y="332" width="270" height="333" frameX="-10" frameY="0" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0009" x="1771" y="332" width="270" height="333" frameX="-10" frameY="0" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0010" x="1771" y="332" width="270" height="333" frameX="-10" frameY="0" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0011" x="1771" y="332" width="270" height="333" frameX="-10" frameY="0" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0012" x="1771" y="332" width="270" height="333" frameX="-10" frameY="0" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseIdle0013" x="1771" y="332" width="270" height="333" frameX="-10" frameY="0" frameWidth="288" frameHeight="333"/>
+	<SubTexture name="GorseLeft0000" x="0" y="680" width="365" height="334"/>
+	<SubTexture name="GorseLeft0001" x="0" y="680" width="365" height="334"/>
+	<SubTexture name="GorseLeft0002" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0003" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0004" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0005" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0006" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0007" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0008" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0009" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0010" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0011" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0012" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseLeft0013" x="380" y="680" width="358" height="334" frameX="-2" frameY="0" frameWidth="365" frameHeight="334"/>
+	<SubTexture name="GorseRight0000" x="753" y="680" width="237" height="322"/>
+	<SubTexture name="GorseRight0001" x="753" y="680" width="237" height="322"/>
+	<SubTexture name="GorseRight0002" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0003" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0004" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0005" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0006" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0007" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0008" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0009" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0010" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0011" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0012" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseRight0013" x="1005" y="680" width="236" height="320" frameX="0" frameY="-2" frameWidth="237" frameHeight="322"/>
+	<SubTexture name="GorseSpit0000" x="1256" y="680" width="254" height="337" frameX="-2" frameY="-7" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0001" x="1256" y="680" width="254" height="337" frameX="-2" frameY="-7" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0002" x="1256" y="680" width="254" height="337" frameX="-2" frameY="-7" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0003" x="1256" y="680" width="254" height="337" frameX="-2" frameY="-7" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0004" x="1525" y="680" width="254" height="341" frameX="-1" frameY="-3" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0005" x="1525" y="680" width="254" height="341" frameX="-1" frameY="-3" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0006" x="1794" y="680" width="253" height="343" frameX="-1" frameY="-1" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0007" x="1794" y="680" width="253" height="343" frameX="-1" frameY="-1" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0008" x="1794" y="680" width="253" height="343" frameX="-1" frameY="-1" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0009" x="0" y="1038" width="253" height="344" frameX="0" frameY="0" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseSpit0010" x="0" y="1038" width="253" height="344" frameX="0" frameY="0" frameWidth="256" frameHeight="344"/>
+	<SubTexture name="GorseUp0000" x="268" y="1038" width="259" height="313" frameX="-3" frameY="0" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0001" x="268" y="1038" width="259" height="313" frameX="-3" frameY="0" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0002" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0003" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0004" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0005" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0006" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0007" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0008" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0009" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0010" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0011" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0012" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+	<SubTexture name="GorseUp0013" x="542" y="1038" width="266" height="309" frameX="0" frameY="-4" frameWidth="266" frameHeight="313"/>
+</TextureAtlas>
