@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="acid_tank.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AcidTank0000" x="0" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0001" x="0" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0002" x="176" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0003" x="176" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0004" x="352" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0005" x="352" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0006" x="528" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTank0007" x="528" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0000" x="0" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0001" x="0" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0002" x="176" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0003" x="176" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0004" x="352" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0005" x="352" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0006" x="528" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0007" x="528" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0008" x="704" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0009" x="0" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0010" x="704" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0011" x="176" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0012" x="704" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0013" x="352" y="0" width="161" height="413"/>
+	<SubTexture name="AcidTankHit0014" x="704" y="0" width="161" height="413"/>
+</TextureAtlas>
