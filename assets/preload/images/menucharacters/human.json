@@ -1,0 +1,11 @@
+{
+	"idle_anim": "MHumanIdle",
+	"image": "Menu_Human",
+	"position": [
+		90,
+		90
+	],
+	"flipX": false,
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}

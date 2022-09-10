@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_BF-Human.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MBFIdle0000" x="0" y="0" width="294" height="456" frameX="0" frameY="-8" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0001" x="0" y="0" width="294" height="456" frameX="0" frameY="-8" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0002" x="309" y="0" width="287" height="455" frameX="-2" frameY="-9" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0003" x="309" y="0" width="287" height="455" frameX="-2" frameY="-9" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0004" x="611" y="0" width="286" height="464" frameX="-9" frameY="-1" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0005" x="611" y="0" width="286" height="464" frameX="-9" frameY="-1" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0006" x="0" y="479" width="295" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0007" x="0" y="479" width="295" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0008" x="310" y="479" width="297" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0009" x="310" y="479" width="297" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0010" x="310" y="479" width="297" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0011" x="310" y="479" width="297" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0012" x="310" y="479" width="297" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+	<SubTexture name="MBFIdle0013" x="310" y="479" width="297" height="465" frameX="-8" frameY="0" frameWidth="305" frameHeight="465"/>
+</TextureAtlas>

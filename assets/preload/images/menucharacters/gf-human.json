@@ -1,0 +1,11 @@
+{
+	"idle_anim": "MGFDancingBeat",
+	"image": "Menu_GF-Human",
+	"position": [
+		-50,
+		130
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "MBFIdle"
+}

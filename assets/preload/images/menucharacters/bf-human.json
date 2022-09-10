@@ -1,0 +1,11 @@
+{
+	"idle_anim": "MBFIdle",
+	"image": "Menu_BF-Human",
+	"position": [
+		30,
+		30
+	],
+	"flipX": false,
+	"scale": 0.65,
+	"confirm_anim": "MBFIdle"
+}
