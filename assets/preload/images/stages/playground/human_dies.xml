@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="human_dies.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HumanShot0000" x="0" y="0" width="742" height="879"/>
+	<SubTexture name="HumanShot0001" x="757" y="0" width="742" height="879"/>
+	<SubTexture name="HumanShot0002" x="1514" y="0" width="742" height="879"/>
+	<SubTexture name="HumanShot0003" x="2271" y="0" width="742" height="879"/>
+	<SubTexture name="HumanShot0004" x="3028" y="0" width="742" height="879"/>
+	<SubTexture name="HumanShot0005" x="0" y="894" width="742" height="879"/>
+	<SubTexture name="HumanShot0006" x="757" y="894" width="742" height="879"/>
+	<SubTexture name="HumanShot0007" x="1514" y="894" width="742" height="879"/>
+	<SubTexture name="HumanShot0008" x="2271" y="894" width="742" height="879"/>
+	<SubTexture name="HumanShot0009" x="3028" y="894" width="742" height="879"/>
+	<SubTexture name="HumanShot0010" x="0" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0011" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0012" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0013" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0014" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0015" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0016" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0017" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0018" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0019" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0020" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0021" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0022" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0023" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0024" x="1514" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0025" x="757" y="1788" width="742" height="879"/>
+	<SubTexture name="HumanShot0026" x="1514" y="1788" width="742" height="879"/>
+</TextureAtlas>
